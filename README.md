@@ -13,14 +13,14 @@ This project is an n8n workflow that routes user messages to specialized AI agen
 - File specialist
 - LLM reasoning specialist
 
-We host n8n on a Linux laptop using Docker, then expose localhost with Cloudflare Tunnel so other devices can access it.
+We can host n8n on a Linux laptop using Docker, then expose localhost with Cloudflare Tunnel so other devices can access it.
 
 Workflow to import:
 - `GalaxyEye Multi-Agent System-public.json`
 
 ---
 
-## Quick setup (minimal)
+## Quick & Easy setup (minimal)
 
 ### 1) Install Docker (one-time)
 
